@@ -58,7 +58,7 @@ rm db_backup
 
 ----------------------------------------------------
 
-![NetBox](docs/netbox_logo.png "NetBox logo")
+![NetBox](netbox_logo.png "NetBox logo")
 
 NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool. Initially conceived by the network engineering team at [DigitalOcean](https://www.digitalocean.com/), NetBox was developed specifically to address the needs of network and infrastructure engineers.
 
@@ -79,11 +79,11 @@ NetBox is built against both Python 2.7 and 3.5.  Python 3.5 is recommended.
 
 ## Screenshots
 
-![Screenshot of main page](docs/media/screenshot1.png "Main page")
+![Screenshot of main page](screenshot1.png "Main page")
 
-![Screenshot of rack elevation](docs/media/screenshot2.png "Rack elevation")
+![Screenshot of rack elevation](screenshot2.png "Rack elevation")
 
-![Screenshot of prefix hierarchy](docs/media/screenshot3.png "Prefix hierarchy")
+![Screenshot of prefix hierarchy](screenshot3.png "Prefix hierarchy")
 
 # Installation
 
